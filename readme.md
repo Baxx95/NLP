@@ -98,8 +98,6 @@ Les Transformers (comme GPT ou BERT) sont entraînés à lire des milliards de p
 
 ---
 
-Si tu veux tester un de ces modèles en Python, je peux te donner le code pour Naïve Bayes, Word2Vec ou un Transformer. N’hésite pas à demander !
-
 
 
 
